@@ -1,0 +1,3 @@
+Flask>=2.0
+psycopg2-binary # For PostgreSQL
+python-dotenv # To load .env if needed locally, though Docker Compose handles it in container
